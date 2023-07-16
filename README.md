@@ -1,5 +1,5 @@
 <h3 align="center">
-	<a href="https://twitter.com/alanscodelog">Twitter</a> | <a href="https://alanscodelog.github.io">Code Blog</a> | <a href="https://alansartlog.com">Art Blog</a>
+	<a href="https://twitter.com/alanscodelog">Twitter</a> | <a href="https://alanscodelog.github.io">Code Blog</a> | <a href="https://github.com/AlansCodeLog?tab=repositories&q=fork%3Afalse+archived%3Afalse&type=public&language=&sort=">Projects</a> | <a href="https://alansartlog.com">Art Blog</a> 
 </h3>
 <p align="center">
 	<a href="https://git.io/streak-stats">
